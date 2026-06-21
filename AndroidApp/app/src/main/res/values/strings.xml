@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SecondScreen</string>
+    <string name="ip_hint">192.168.1.100</string>
+    <string name="port_hint">8890</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="connecting">Connecting...</string>
+    <string name="connection_lost">Connection lost</string>
+</resources>

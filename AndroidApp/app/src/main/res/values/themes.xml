@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.SecondScreen" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#FF1A1A2E</item>
+    </style>
+
+    <style name="Theme.SecondScreen.Fullscreen" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:statusBarColor">@android:color/black</item>
+        <item name="android:navigationBarColor">@android:color/black</item>
+    </style>
+</resources>
